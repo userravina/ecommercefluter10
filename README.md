@@ -29,9 +29,6 @@ samples, guidance on mobile development, and a full API reference.
   <img src="https://github.com/userravina/ecommercefluter10/assets/120082785/009fdb1b-df51-4a3f-bb60-27f5c84e95f4"  height="50%" width="30%">
   <img src="https://github.com/userravina/ecommercefluter10/assets/120082785/896dd1d1-60e1-4cc9-acfc-c691b9f61870"  height="50%" width="30%">
   <img src="https://github.com/userravina/ecommercefluter10/assets/120082785/2b4358a3-cede-4d54-9ae3-d61d52014d19"  height="50%" width="30%">
-
-   <img src="https://github.com/userravina/ecommercefluter10/assets/120082785/35b27f7d-5391-4f21-b6b4-260dbe895fcd" height="50%" width="30%">
-  <img src="https://github.com/userravina/ecommercefluter10/assets/120082785/4442c7c5-9931-41ff-8924-02b2b4992a98"  height="50%" width="30%">
 </p>
 
 
